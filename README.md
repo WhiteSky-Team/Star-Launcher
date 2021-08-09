@@ -32,13 +32,13 @@ macOS
 
 Linux
 
-**手机端（也许是有生之年）**
+**移动端（也许是有生之年）**
 
 HarmonyOS
 
 Android
 
-iOS
+iOS/iPadOS
 
 # 加入我们
 请发邮件至cannian2002@outlook.com或者redismgame@outlook.com与我们详谈。
